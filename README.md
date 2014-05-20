@@ -2,8 +2,8 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>　　　　　　　　　　trjfijei efj　　　　　　　　　　</td>
-        <td>　　　　　　　　　　　jklj　　　　　　　　　　　</td>
+        <td>trjfijei efj</td>
+        <td>jklj</td>
     </tr>
     <tr>
         <td>
@@ -26,6 +26,10 @@ This is a regular paragraph.
             jklfa sdlkfja lsjglkdfjjalk fjkasld<br />
             <code>jlksad fjlkas dfklja sdlkfj alksdjf lkas</code>
         </td>
+    </tr>
+    <tr>
+        <td>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
+        <td>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
     </tr>
 </table>
 
