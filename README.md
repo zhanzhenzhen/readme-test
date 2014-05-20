@@ -28,8 +28,8 @@ This is a regular paragraph.
         </td>
     </tr>
     <tr>
-        <td>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
-        <td>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
+        <td>...　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
+        <td>...　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
     </tr>
 </table>
 
