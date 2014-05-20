@@ -2,28 +2,28 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <th style="width: 50%;">fasdf dsafsdfas</th>
-        <th style="width: 50%;">gfd</th>
+        <th>-------------------- jklj djksdf --------------------</th>
+        <th>-------------------- jklj djksdf --------------------</th>
     </tr>
     <tr>
-        <td style="width: 50%;">
-            fjlaksd jflkas djflka;sj dlfkaj skdl;f jalks;d jflka;sjd fkla sjdlfka sjdl fjasdfk kfjlasjd flkjsda flkjsadf lksjdflkasdj flkajsdlfkjasd lkfjlsd<br />
+        <td>
+            jlkd kjlsfdja klsakdskf jklfs<br />
             <code>fjkals;dj flkasjdflk asjjkla</code><br />
             jflkdsjfglkajsd lfkjasdlk fjal<br />
-            <code>jflaksj klsjaf laksjd lfkjasldkfjals ;kdj\</code>
+            <code>jflaksj klsjaf laksjd lfkjasldkfjals ;kd</code>
         </td>
-        <td style="width: 50%;">
+        <td>
             <code>jlgkjds flkj laskdj flkajsd flkjasdlkf</code><br />
-            fjalskdjf lasdkjf lasdjflkasjd flkajs dlkfjalksdjf lkasjd flkajs dlkfj alksdj flkajs dlkfja slkdj flkasdj flkja sdlkfj alskdjflaksdj
+            lkjdfa jdklfasdljf lskdjfklajs fkldaklsd
         </td>
     </tr>
     <tr>
-        <td style="width: 50%;">
-            jgflksdj flgk dlakj flkasjd flkakjsdlkjf lkasjdf lkajsd lfkjas dlkfjlkasdj flkasjd flkajsd lkfja slkdfjalksd jflaks<br />
+        <td>
+            jflaksjd kfljasdlkfjaljlkfsjd<br />
             <code>  jkld jflkas djflasdlkf</code>
         </td>
-        <td style="width: 50%;">
-            lkdjf lkasdj flkajs dlkgj dflksj glkjas dlkfjasldk jflaksjd flka sjdlkfj alksdj flka jsdlk fjlaksd fkj fklajsdlfk<br />
+        <td>
+            jklfa sdlkfja lsjglkdfjjalk fjkasld<br />
             <code>jlksad fjlkas dfklja sdlkfj alksdjf lkas</code>
         </td>
     </tr>
