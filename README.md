@@ -7,24 +7,24 @@ This is a regular paragraph.
     </tr>
     <tr>
         <td>
-            jlkd kjlsfdja klsakdskf jklfs<br />
-            <code>fjkals;dj flkasjdflk asjjkla</code><br />
-            jflkdsjfglkajsd lfkjasdlk fjal<br />
-            <code>jflaksj klsjaf laksjd lfkjasldkfjals ;kd</code>
+            jlkd kjlsfdja klsakdskf jklfs
+            <pre>fjkals;dj flkasjdflk asjjkla</pre>
+            jflkdsjfglkajsd lfkjasdlk fjal
+            <pre>jflaksj klsjaf laksjd lfkjasldkfjals ;kd</pre>
         </td>
         <td>
-            <code>jlgkjds flkj laskdj flkajsd flkjasdlkf</code><br />
+            <pre>jlgkjds flkj laskdj flkajsd flkjasdlkf</pre>
             lkjdfa jdklfasdljf lskdjfklajs fkldaklsd
         </td>
     </tr>
     <tr>
         <td>
-            jflaksjd kfljasdlkfjaljlkfsjd<br />
-            <code>  jkld jflkas djflasdlkf</code>
+            jflaksjd kfljasdlkfjaljlkfsjd
+            <pre>  jkld jflkas djflasdlkf</pre>
         </td>
         <td>
-            jklfa sdlkfja lsjglkdfjjalk fjkasld<br />
-            <code>jlksad fjlkas dfklja sdlkfj alksdjf lkas</code>
+            jklfa sdlkfja lsjglkdfjjalk fjkasld
+            <pre>jlksad fjlkas dfklja sdlkfj alksdjf lkas</pre>
         </td>
     </tr>
     <tr>
