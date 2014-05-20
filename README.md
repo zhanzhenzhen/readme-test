@@ -6,20 +6,20 @@ This is a regular paragraph.
         <th style="width: 50%;">gfd</th>
     </tr>
     <tr>
-        <td>
+        <td style="width: 50%;">
             fjlaksd jflkas djflka;sj dlfkaj skdl;f jalks;d jflka;sjd fkla sjdlfka sjdl fjasdf<br />
             <code>fjkals;dj flkasjdflk asjjkla</code><br />
             jflkdsjfglkajsd lfkjasdlk fjal<br />
             <code>jflaksj klsjaf laksjd lfkjasldkfjals ;kdjflas djlfka jsdlkfjalksdjflaksjd</code>
         </td>
-        <td><code>jlgkjds flkj laskdj flkajsd flkjasdlkf</code></td>
+        <td style="width: 50%;"><code>jlgkjds flkj laskdj flkajsd flkjasdlkf</code></td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 50%;">
             jgflksdj flgk dlakj flkasjd flkakjsd<br />
             <code>  jkld jflkas djflasdlkf</code>
         </td>
-        <td><code>jlksad fjlkas dfklja sdlkfj alksdjf lkasdj glk;sdfj lgkj sldfkj glksdjf glksjdf lkgjsdlkf jglksd fjgls djflkgjsdflk gjsdlf</code></td>
+        <td style="width: 50%;"><code>jlksad fjlkas dfklja sdlkfj alksdjf lkasdj glk;sdfj lgkj sldfkj glksdjf glksjdf lkgjsdlkf jglksd fjgls djflkgjsdflk gjsdlf</code></td>
     </tr>
 </table>
 
