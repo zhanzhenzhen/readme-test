@@ -1,0 +1,11 @@
+{
+    "name": "zizi-readme-test",
+    "version": "0.0.1",
+    "description": "Zizi's README test.",
+    "author": "Zhenzhen Zhan <zhanzhenzhen@hotmail.com>",
+    "homepage": "https://github.com/zhanzhenzhen/readme-test",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhanzhenzhen/readme-test.git"
+    }
+}
