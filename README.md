@@ -12,14 +12,20 @@ This is a regular paragraph.
             jflkdsjfglkajsd lfkjasdlk fjal<br />
             <code>jflaksj klsjaf laksjd lfkjasldkfjals ;kdj\</code>
         </td>
-        <td style="width: 50%;"><code>jlgkjds flkj laskdj flkajsd flkjasdlkf</code></td>
+        <td style="width: 50%;">
+            <code>jlgkjds flkj laskdj flkajsd flkjasdlkf</code><br />
+            fjalskdjf lasdkjf lasdjflkasjd flkajs dlkfjalksdjf lkasjd flkajs dlkfj alksdj flkajs dlkfja slkdj flkasdj flkja sdlkfj alskdjflaksdj
+        </td>
     </tr>
     <tr>
         <td style="width: 50%;">
             jgflksdj flgk dlakj flkasjd flkakjsdlkjf lkasjdf lkajsd lfkjas dlkfjlkasdj flkasjd flkajsd lkfja slkdfjalksd jflaks<br />
             <code>  jkld jflkas djflasdlkf</code>
         </td>
-        <td style="width: 50%;"><code>jlksad fjlkas dfklja sdlkfj alksdjf lkas</code></td>
+        <td style="width: 50%;">
+            lkdjf lkasdj flkajs dlkgj dflksj glkjas dlkfjasldk jflaksjd flka sjdlkfj alksdj flka jsdlk fjlaksd fkj fklajsdlfk<br />
+            <code>jlksad fjlkas dfklja sdlkfj alksdjf lkas</code>
+        </td>
     </tr>
 </table>
 
