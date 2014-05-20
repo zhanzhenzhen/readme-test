@@ -2,14 +2,24 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>Foo</td>
-        <td>Foo</td>
-        <td>Foo</td>
+        <th>fasdf dsafsdfas</th>
+        <th>gfd</th>
     </tr>
     <tr>
-        <td>Foo</td>
-        <td>Foo</td>
-        <td>Foo</td>
+        <td>
+            fjlaksd jflkas djflka;sj dlfkaj skdl;f jalks;d jflka;sjd fkla sjdlfka sjdl fjasdf<br />
+            <code>fjkals;dj flkasjdflk asjjkla</code><br />
+            jflkdsjfglkajsd lfkjasdlk fjal<br />
+            <code>jflaksj klsjaf laksjd lfkjasldkfjals ;kdjflas djlfka jsdlkfjalksdjflaksjd</code>
+        </td>
+        <td><code>jlgkjds flkj laskdj flkajsd flkjasdlkf</code></td>
+    </tr>
+    <tr>
+        <td>
+            jgflksdj flgk dlakj flkasjd flkakjsd<br />
+            <code>  jkld jflkas djflasdlkf</code>
+        </td>
+        <td><code>jlksad fjlkas dfklja sdlkfj alksdjf lkasdj glk;sdfj lgkj sldfkj glksdjf glksjdf lkgjsdlkf jglksd fjgls djflkgjsdflk gjsdlf</code></td>
     </tr>
 </table>
 
