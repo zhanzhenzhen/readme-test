@@ -2,8 +2,8 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <th>fasdf dsafsdfas</th>
-        <th>gfd</th>
+        <th style="width: 50%;">fasdf dsafsdfas</th>
+        <th style="width: 50%;">gfd</th>
     </tr>
     <tr>
         <td>
