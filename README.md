@@ -8,9 +8,10 @@ This is a regular paragraph.
     <tr>
         <td>
             jlkd kjlsfdja klsakdskf jklfs
-            <pre>
+<pre>
 f&gt;&gt;&gt;&gt;jkals;dj flkasjdflk asjjkla fjklsd fkjlsdadsf fkjdsf
-fjlasdjlfjlsdj</pre>
+fjlasdjlfjlsdj
+</pre>
 jflkdsjfglkajsd lfkjasdlk fjal
             <pre>
 jflaksj klsjaf laksjd lfkjasldkfj
