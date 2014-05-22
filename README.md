@@ -7,9 +7,9 @@ This is a regular paragraph.
     </tr>
     <tr>
         <td>
-            jlkd kjlsfdja klsakdskf jklfs
+            jlkd kjlsfdja kl<i>asdf</i>sakdskf jklfs
 <pre>
-f&gt;&gt;&gt;&gt;jkals;dj flkasjdflk asjjkla fjklsd fkjlsdadsf fkjdsf
+f&gt;&gt;&gt;&gt;jkals;dj flkas<i>asdf</i>jdflk asjjkla fjklsd fkjlsdadsf fkjdsf
 fjlasdjlfjlsdj
 </pre>
 jflkdsjfglkajsd lfkjasdlk fjal
