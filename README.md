@@ -57,9 +57,9 @@ $ npm install -g fjalskdjfla "jfdlakjds"
 ```
 
 ```
-    function abc(def) {
-        var aaa = 111;
-        aaa(41234);
-        bbb("jfklasjdklfj");
-    }
+function abc(def) {
+    var aaa = 111;
+    aaa(41234);
+    bbb("jfklasjdklfj");
+}
 ```
