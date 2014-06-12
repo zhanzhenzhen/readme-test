@@ -56,10 +56,40 @@ fjklasjldfj
 $ npm install -g fjalskdjfla "jfdlakjds"
 ```
 
-```
+```text
 function abc(def) {
     var aaa = 111;
     aaa(41234);
     bbb("jfklasjdklfj");
 }
 ```
+
+```txt
+function abc(def) {
+    var aaa = 111;
+    aaa(41234);
+    bbb("jfklasjdklfj");
+}
+```
+
+```plaintext
+function abc(def) {
+    var aaa = 111;
+    aaa(41234);
+    bbb("jfklasjdklfj");
+}
+```
+
+<pre>
+function abc(def) {
+    var aaa = 111;
+    aaa(41234);
+    bbb("jfklasjdklfj");
+}
+</pre>
+
+<pre>function abc(def) {
+    var aaa = 111;
+    aaa(41234);
+    bbb("jfklasjdklfj");
+}</pre>
