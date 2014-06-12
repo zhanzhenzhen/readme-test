@@ -80,6 +80,16 @@ function abc(def) {
 }
 ```
 
+```
+********** Broken Wish **********
+    Test:  --> 
+    Wish: money>3000
+Expected: > 3000
+  Actual: 2500
+
+Tests OK. 1 wishes of 3 broken. Mark: 9eb3d
+```
+
 <pre>
 function abc(def) {
     var aaa = 111;
@@ -93,3 +103,13 @@ function abc(def) {
     aaa(41234);
     bbb("jfklasjdklfj");
 }</pre>
+
+<pre>
+********** Broken Wish **********
+    Test:  --> 
+    Wish: money>3000
+Expected: > 3000
+  Actual: 2500
+
+Tests OK. 1 wishes of 3 broken. Mark: 9eb3d
+</pre>
